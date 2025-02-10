@@ -1,0 +1,16 @@
+/*Selector {
+	Property: value;
+}*/
+h2 {
+	color: red;
+	text-align: center;
+	border: 5px solid blueviolet;
+}
+
+p{
+	color: green;
+}
+li{
+	background-color: purple;
+	color: white;
+}
